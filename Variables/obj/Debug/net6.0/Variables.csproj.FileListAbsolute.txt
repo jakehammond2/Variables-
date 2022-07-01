@@ -1,0 +1,15 @@
+/Users/jakobhammond/Projects/VariablesApp/Variables/obj/Debug/net6.0/Variables.csproj.AssemblyReference.cache
+/Users/jakobhammond/Projects/VariablesApp/Variables/obj/Debug/net6.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakobhammond/Projects/VariablesApp/Variables/obj/Debug/net6.0/Variables.AssemblyInfoInputs.cache
+/Users/jakobhammond/Projects/VariablesApp/Variables/obj/Debug/net6.0/Variables.AssemblyInfo.cs
+/Users/jakobhammond/Projects/VariablesApp/Variables/obj/Debug/net6.0/Variables.csproj.CoreCompileInputs.cache
+/Users/jakobhammond/Projects/VariablesApp/Variables/bin/Debug/net6.0/Variables
+/Users/jakobhammond/Projects/VariablesApp/Variables/bin/Debug/net6.0/Variables.deps.json
+/Users/jakobhammond/Projects/VariablesApp/Variables/bin/Debug/net6.0/Variables.runtimeconfig.json
+/Users/jakobhammond/Projects/VariablesApp/Variables/bin/Debug/net6.0/Variables.dll
+/Users/jakobhammond/Projects/VariablesApp/Variables/bin/Debug/net6.0/Variables.pdb
+/Users/jakobhammond/Projects/VariablesApp/Variables/obj/Debug/net6.0/Variables.dll
+/Users/jakobhammond/Projects/VariablesApp/Variables/obj/Debug/net6.0/refint/Variables.dll
+/Users/jakobhammond/Projects/VariablesApp/Variables/obj/Debug/net6.0/Variables.pdb
+/Users/jakobhammond/Projects/VariablesApp/Variables/obj/Debug/net6.0/Variables.genruntimeconfig.cache
+/Users/jakobhammond/Projects/VariablesApp/Variables/obj/Debug/net6.0/ref/Variables.dll
